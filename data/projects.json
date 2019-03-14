@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Blog Post 1",
+    "slug": "blogpost-1",
+    "url": "https://google.com/",
+    "image": "./images/project1.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "tags": [
+      " Colors, ",
+      " Paint, ",
+      " Red, ",
+      " Yellow, ",
+      " Green, "
+    ]
+  },
+  {
+    "title": "Blog Post 2",
+    "slug": "blogpost-2",
+    "url": "https://twitter.com/",
+    "image": "./images/project2.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "tags": [
+      "Colors, ", 
+      "Paint, ", 
+      "Red, ", 
+      "Orange, ", 
+      "Green, "
+    ]
+  }
+]
