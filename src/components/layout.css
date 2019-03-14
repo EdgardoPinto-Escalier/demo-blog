@@ -38,6 +38,16 @@ body {
   font-size: 1rem;
 }
 
+.ParticlesWrapper {
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+}
+
 @media (min-width: 600px) {
   .project-preview {
     flex: 1 50%;
